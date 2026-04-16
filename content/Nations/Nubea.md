@@ -1,0 +1,1 @@
+Nubea is a kingdom located .... It is currently ruled by [[King Kwame Nubis]]. 
