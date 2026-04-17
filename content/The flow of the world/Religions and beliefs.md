@@ -25,3 +25,5 @@ Chosen Ones of the Rapture
 The shepherd (maybe something with a big comet. )
 
 Paizo - A patron deity of random chance and chaos (playing games). Offers games to people he finds enjoyable or thinks can be entertaining. Just wants to cause chaos. 
+
+Hecate - the first witch? Maybe a patron deity of witches but also roams the wilds. Established the witchguard to protect other witches? Or maybe her lover established the witch guard?
