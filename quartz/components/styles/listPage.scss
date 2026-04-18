@@ -27,7 +27,15 @@ li.section-li {
       margin: 0 1em 0 0;
       opacity: 0.6;
     }
-  }
+
+    }  
+  
+    .section .desc h3 {  
+    white-space: nowrap;  
+    overflow: hidden;  
+    text-overflow: ellipsis;  
+    }  
+  
 }
 
 // modifications in popover context

@@ -3,7 +3,6 @@ title: Religions and beliefs
 draft: false
 tags:
 ---
-
 The gardener
 
 The faceless one/ the masked one/ the many faced one/ the all faced/ the eternal visage (the god/gods who made some or most of the masks) 

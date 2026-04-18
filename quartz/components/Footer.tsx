@@ -17,6 +17,7 @@ export default ((opts?: Options) => {
           {i18n(cfg.locale).components.footer.createdWith}{" "}
           <a href="https://quartz.jzhao.xyz/">Quartz v{version}</a> © {year}
         </p>
+        <p>Dear traveller. This is a wiki for the world of Ifuru. Thought up by the mind of and made with love by Nehizena Osagie.</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
