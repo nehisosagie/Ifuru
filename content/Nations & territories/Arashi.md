@@ -1,0 +1,1 @@
+Arashi is the land of storms and its emperor rules with a thunderous fist. There is a vast network of state ministers and the culture is very family and status-oriented.  

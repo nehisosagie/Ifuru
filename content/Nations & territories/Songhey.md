@@ -1,0 +1,1 @@
+Songhey is a large empire that has a desert on one side and stretches to dense forests on the other side. The Empire controls many local and international trade routes, especially in …gold and salt,

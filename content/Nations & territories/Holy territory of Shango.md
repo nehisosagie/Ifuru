@@ -1,0 +1,1 @@
+A religious state dedicated to the Nyame Shango. And the idea that there should be eyes everywhere to see the world and to see the bad things. 

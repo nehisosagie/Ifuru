@@ -1,0 +1,1 @@
+Sakastān is known as the desertlands and has nomadic people roaming around. 
