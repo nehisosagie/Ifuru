@@ -1,1 +1,0 @@
-Beinn knows a strong warrior culture and have a vast collection of mines. 

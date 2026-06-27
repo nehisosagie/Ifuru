@@ -3,6 +3,8 @@ A coastal biome where the waves produce haunting melodies when they crash agains
 
 Unique Features:
 
+Plants that sing when the sea waves spray them. 
+
 Crystal reefs that change color based on the emotion of the music.
 
 Fish that "hum" in harmony, using vibrations to communicate.

@@ -1,0 +1,2 @@
+Also known as the swimming Archipelago. It is said the islands here  constantly move, sometimes colliding or merging. Earthquakes are common as the land shifts unpredictably.
+There are tribes that migrate between the islands. Following and understanding the motions. 

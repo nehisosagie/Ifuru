@@ -1,0 +1,1 @@
+Bann knows a strong warrior culture and has a vast collection of mines. 

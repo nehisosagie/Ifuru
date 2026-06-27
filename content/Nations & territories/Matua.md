@@ -1,1 +1,1 @@
-The capital Vao. A coastal country. 
+A coastal nation, constantly in conflict with Nubea on territorial waters. The capital is called Vao after the founder. 

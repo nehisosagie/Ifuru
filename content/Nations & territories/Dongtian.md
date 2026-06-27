@@ -1,1 +1,1 @@
-Dongtian: snowlands/frostlands, used to be a self-governing country but got taken over by Arashi.
+Dongtian: Also known as the snowlands/frostlands, a smaller self-governing country constantly under pressure from Arashi.
