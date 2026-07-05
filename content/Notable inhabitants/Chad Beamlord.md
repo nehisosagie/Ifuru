@@ -1,0 +1,1 @@
+Chad is an enigmatic figure. Not much is know about his origins or upbringing. But what is known is that he is a human cleric from [[Carta’ahge]]. He wears a tanktop that always appears spotless and he can hit you hard with his mace, but even harder with his affirmations. 

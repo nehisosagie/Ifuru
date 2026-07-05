@@ -25,7 +25,7 @@ The following sections will go into detail for what methods can be implemented f
 - `BuildCtx` is defined in `quartz/ctx.ts`. It consists of
   - `argv`: The command line arguments passed to the Quartz [[build]] command
   - `cfg`: The full Quartz [[configuration]]
-  - `allSlugs`: a list of all the valid content slugs (see [[paths]] for more information on what a slug is)
+  - `allSlugs`: a list of all the valid content slugs (see [[docs/advanced/paths]] for more information on what a slug is)
 - `StaticResources` is defined in `quartz/resources.tsx`. It consists of
   - `css`: a list of CSS style definitions that should be loaded. A CSS style is described with the `CSSResource` type which is also defined in `quartz/resources.tsx`. It accepts either a source URL or the inline content of the stylesheet.
   - `js`: a list of scripts that should be loaded. A script is described with the `JSResource` type which is also defined in `quartz/resources.tsx`. It allows you to define a load time (either before or after the DOM has been loaded), whether it should be a module, and either the source URL or the inline content of the script.

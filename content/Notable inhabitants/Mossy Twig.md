@@ -1,0 +1,1 @@
+A kind and friendly Gnome who is most often found in the company of animals. She may be small of stature but is a ranger very capable with any sort of bow. Even bows longer than herself. She has been overheard speaking fondly of her hometown Igi. A border village in [[Matua]].

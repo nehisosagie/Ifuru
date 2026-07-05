@@ -1,1 +1,1 @@
-A coastal nation, constantly in conflict with Nubea on territorial waters. The capital is called Vao after the founder. 
+A coastal nation, constantly in conflict with Nubea on territorial waters and coastlines. The capital is called Vao after the founder. Matua is home to mangrove forests at the coast and old dense jungle more land inward. Some say you can find living world root trees hidden in the land. The Circle of Roots has a large grove in the nation. 
