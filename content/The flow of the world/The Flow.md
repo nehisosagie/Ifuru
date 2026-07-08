@@ -12,4 +12,4 @@ A good way to channel, focus and even store flow are through [[Artefacts]].
 
 There are different levels of being in tune with the flow. Your level of attunement determines how well and how much you can channel. 
 
-There are different [[content/The flow of the world/Paths|Paths]] one can follow in life, these also affect how you interact with the Flow. 
+There are different Paths one can follow in life, these also affect how you interact with the Flow. 

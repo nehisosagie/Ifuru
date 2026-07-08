@@ -6,8 +6,8 @@ Every culture has their own ceremonies, views and philosophies tied to the paths
 
 Each path has five levels of mastery:
 
-**Novice** - Walking the path, learning basics (most people here) 
-**Adept** - Understanding deeply, embodying principles 
-**Master** - Can teach others, path shapes their being 
-**Exemplar** - Living legend of the path, known widely 
-**Embodied** - Rare as Nyame, path made flesh, almost divine. When one is reached the embodiment of a path, flowing is second nature.
+1. **Novice** - Walking the path, learning basics (most people here) 
+2. **Adept** - Understanding deeply, embodying principles 
+3. **Master** - Can teach others, path shapes their being 
+4. **Exemplar** - Living legend of the path, known widely 
+5. **Embodied** - Rare as Nyame, path made flesh, almost divine. When one is reached the embodiment of a path, flowing is second nature. 
