@@ -1,1 +1,1 @@
-A tall looming elf with a cold, hardened look to him. Not many dare approach him. He has been seen slinging spells at those that come to close. There are whispers that he carries a blade even more dangerous than his spells. He wears symbology of someone from the nation of [[Paigan- Paijan]].
+A tall looming elf with a cold, hardened look to him. Not many dare approach him. He has been seen slinging spells at those that come to close. There are whispers that he carries a blade even more dangerous than his spells. He wears symbology of someone from the nation of [[Paigan]].
