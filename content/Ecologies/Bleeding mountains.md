@@ -1,0 +1,1 @@
+Large mountains with long winding deep red rivers stretching all the way from the top to the bottom. Making it look like the mountains are bleeding. The liquid however is usually a deep red and I am fairly certain it is now water that flows. Though I am not keen to find out.  

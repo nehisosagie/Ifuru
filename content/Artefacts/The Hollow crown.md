@@ -1,0 +1,1 @@
+A crown said to be hollow inside, so that it can consume its wearer's flow when it is time. 

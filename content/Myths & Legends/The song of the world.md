@@ -1,3 +1,5 @@
+>This is a favourite story that the griots like to tell. 
+
 In the beginning there were 13.
 
 The 13 original Nyame. Their first great act was not creation but agreement. They reached toward each other and joined their power, the way rivers join, not losing themselves but becoming something larger than either could be alone.

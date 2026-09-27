@@ -1,0 +1,1 @@
+A far reaching group that seem to be in a fight with the biggest enemies they can find. Literally. They look like mercenaries but have more sophistication than their looks would have you believe. 

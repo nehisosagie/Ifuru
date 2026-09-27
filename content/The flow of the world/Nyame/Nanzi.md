@@ -1,0 +1,1 @@
+Nanzi is depicted as a arachnid-humanoid hybrid. Mostly worshipped by griots, artisans and craftworkers. 

@@ -1,0 +1,2 @@
+>“Truth has no master.”
+

@@ -1,1 +1,1 @@
-The free territory of Agora is a place for all who want to be able to think and share their ideas freely.  
+The free territory of Agora is a place for all who want to freely think and share their ideas. So they say.   

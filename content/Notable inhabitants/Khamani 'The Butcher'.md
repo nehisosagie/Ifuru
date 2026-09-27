@@ -1,0 +1,2 @@
+Khamani is from who knows. He served as a [[Bone Reapers]] field commander. Earning the name The Butcher for meticulously butchering any organism, small, big, or behemoth.  Though it seems he has been butchered himself. A fitting end. 
+![[e1f7ecc6c22083ed29a339043965a670.jpg|409]]
