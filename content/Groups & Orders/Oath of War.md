@@ -6,4 +6,4 @@ Note to never get into a fight with one.
 
 
 ![[893a08c466398f06f9332f7af238a726.jpg|445]]
-I don't know if their weapons are red because they like the color of blood or because of all the blood. 
+<br>I don't know if their weapons are red because they like the color of blood or because of all the blood. 
