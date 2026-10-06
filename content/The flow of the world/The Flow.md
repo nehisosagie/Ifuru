@@ -6,7 +6,7 @@ tags:
 *The Flow* cycles through all. It is not something you have, it's something you're doing<br>
 Iyi is the stream or flow of energy.
 You have Ume (internal) and Ike (external) Energy/power. <br>
-A good way to channel, focus and even store flow are through [[Artefacts]]. 
+A good way to channel, focus and even store flow is through [[Artefacts]]. Or resonants as they are sometimes called.  
 
 >"*Flowing* is to be one with the world around you." 
 

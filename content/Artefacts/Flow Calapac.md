@@ -1,0 +1,2 @@
+Also known as a flow hùzi, fukube or gourd. Is a highly personalised item that a person can use to store and channel flow from. Or enjoy a nice cool refreshing drink on a long trip. 
+![[fe3d3ea420c67bb396bbd4c16c1c4c20.jpg|481]]

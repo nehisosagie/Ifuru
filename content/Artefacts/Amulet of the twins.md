@@ -1,0 +1,2 @@
+Some say this amulet represents the first or eternal twins. <br>Only in the hands of an extremely skilled channeller will this amulet grant the powers of both twins. And you really need the power of both twins. Whatever that may mean. 
+![[07818019bc0fa328820ca6cd9f01157c.jpg|475]]
